@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Screen Secure</string>
+    <string name="admin_receiver_label">Screen Secure Admin</string>
+    <string name="admin_receiver_description">Enables instant lock.</string>
+</resources>
